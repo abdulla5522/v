@@ -1,0 +1,88 @@
+h1{
+text-align:center ;
+font-family:Josefin Sans ;
+font-size:40px ;
+color: darksalmon;
+}
+
+h4{
+font-family:Roboto Condensed;
+font-size:20px;
+
+color:darkgoldenrod;
+
+}
+
+
+span{
+color: dodgerblue;
+font-size: 50px;
+
+}
+
+#para1{
+    color: darkblue;
+    font-size: 22px;
+}
+
+#para2{
+color: yellowgreen;
+font-size: 22px;
+}
+
+#para3{
+color:gray;
+font-size: 22px;
+
+}
+
+a{
+text-decoration:none ;
+font-family:roboto, arial;
+background-color:black;
+color:white;
+width:150px;
+height:50px ;
+display: block;
+text-align: center;
+border-radius:50px;
+line-height:50px;
+
+}
+
+#cobi1{
+    text-decoration:none ;
+    font-family:roboto, arial;
+    background-color:aqua;
+    color:white;
+    width:150px;
+    height:50px ;
+    display: block;
+    text-align: center;
+    border-radius:50px;
+    line-height:50px;
+    
+
+
+
+}
+
+
+#cobi2{
+
+text-decoration:none ;
+    font-family:roboto, arial;
+    background-color:plum;
+    color:white;
+    width:150px;
+    height:50px ;
+    display: block;
+    text-align: center;
+    border-radius:50px;
+    line-height:50px;
+    
+
+
+
+}
+
